@@ -5,6 +5,9 @@
 # Equipe desenvolvedora:
 
 Elielson Barbosa
+
 Renan Carneiro
+
 Pedro Lima
+
 Lucas Freitas
